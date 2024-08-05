@@ -1,0 +1,13 @@
+train: /content/drive/MyDrive/Skripsi/SP7/train/images
+val: /content/drive/MyDrive/Skripsi/SP7/valid/images
+test: /content/drive/MyDrive/Skripsi/SP7/test/images
+
+nc: 2
+names: ['Healthy Sweet Potato', 'Sick Sweet Potato_Tuber Rot']
+
+roboflow:
+  workspace: skripsii-kmfwa
+  project: skripsi-9oeke
+  version: 7
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/skripsii-kmfwa/skripsi-9oeke/dataset/7
